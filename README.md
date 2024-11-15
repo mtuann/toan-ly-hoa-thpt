@@ -11,6 +11,7 @@ Repository này chia thành các chuyên mục theo từng môn học cụ thể
 - [**Hình học**](toan/hinh-hoc/README.md) – Các chủ đề về hình học phẳng, không gian, và các bài toán hình học.
 - [**Đại số**](toan/dai-so/README.md) – Các phương trình, bất phương trình, bất đẳng thức, và hệ phương trình.
 - [**Xác suất và thống kê**](toan/xac-suat-thong-ke/README.md) – Các bài toán về xác suất, lý thuyết xác suất và ứng dụng trong thực tế.
+- [**Tổ Hợp và Chuỗi**](toan/to-hop-chuoi/README.md) – Các bài toán về tổ hợp, chỉnh hợp, dãy số và chuỗi số vô hạn.
 - [**Lý thuyết đồ thị**](toan/ly-thuyet-do-thi/README.md) – Các khái niệm cơ bản về đồ thị và ứng dụng trong các bài toán tổ hợp.
 
 ### ⚡ Môn **Lý**
