@@ -62,12 +62,12 @@
   - Alcohol có thể tách nước để tạo thành alkene dưới tác dụng của axit hoặc xúc tác mạnh.
   - Ví dụ: Dehydration ethanol tạo ra etylen.
   \[
-  C₂H₅OH \xrightarrow{H₂SO₄} C₂H₄ + H₂O
+  C₂H₅OH $\xrightarrow{H₂SO₄}$ C₂H₄ + H₂O
   \]
 - **Phản ứng tạo ether**:
   - Hai phân tử alcohol có thể kết hợp với nhau trong điều kiện axit mạnh để tạo thành ether.
   \[
-  2C₂H₅OH \xrightarrow{H₂SO₄} C₂H₅OC₂H₅ + H₂O
+  2C₂H₅OH $\xrightarrow{H₂SO₄}$ C₂H₅OC₂H₅ + H₂O
   \]
 
 ### 4.3 Phản ứng oxi hóa:
@@ -122,7 +122,7 @@
 ### 7.1 Điều chế Ethanol:
 - **Từ ethylene**: Ethylene (C₂H₄) có thể được **hydrat hóa** trong điều kiện nhiệt độ và áp suất cao với sự có mặt của acid sulfuric (H₂SO₄).
   \[
-  C₂H₄ + H₂O \xrightarrow{H₂SO₄} C₂H₅OH
+  C₂H₄ + H₂O $\xrightarrow{H₂SO₄}$ C₂H₅OH
   \]
 - **Lên men tinh bột**: Tinh bột hoặc đường có thể lên men thành ethanol dưới tác dụng của vi sinh vật (Saccharomyces cerevisiae).
 

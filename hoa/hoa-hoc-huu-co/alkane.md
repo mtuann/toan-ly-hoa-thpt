@@ -44,7 +44,7 @@ Alkane (hay còn gọi là parafin) là nhóm hợp chất hữu cơ đơn giả
 - **Phản ứng thế (substitution reaction)**: Alkane có thể tham gia phản ứng thế với halogen (Cl₂, Br₂) trong điều kiện ánh sáng hoặc nhiệt độ cao, ví dụ:
   - **Chlorination của methane**: 
     \[
-    CH₄ + Cl₂ \xrightarrow{hv} CH₃Cl + HCl
+    CH₄ + Cl₂ $\xrightarrow{hv}$ CH₃Cl + HCl
     \]
     (Methane phản ứng với chlorine tạo ra methyl chloride).
   
@@ -68,7 +68,7 @@ Alkane (hay còn gọi là parafin) là nhóm hợp chất hữu cơ đơn giả
 - **Điều kiện**: Hexane tác dụng với nước bromine (Br₂) trong điều kiện ánh sáng hoặc khi đun nóng.
   - **Khi có ánh sáng**: Phản ứng thế halogen xảy ra, tạo ra bromoalkane:
     \[
-    C₆H₁₄ + Br₂ \xrightarrow{hv} C₆H₁₃Br + HBr
+    C₆H₁₄ + Br₂ $\xrightarrow{hv}$ C₆H₁₃Br + HBr
     \]
 
 ### Thí nghiệm 3: Đốt cháy Hexane

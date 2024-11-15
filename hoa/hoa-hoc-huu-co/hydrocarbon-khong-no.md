@@ -48,19 +48,19 @@
 - **Phản ứng cộng (Addition reactions)**: Các alkene và alkyne có khả năng tham gia vào phản ứng cộng, trong đó liên kết đôi hoặc ba bị phá vỡ để tạo ra sản phẩm mới.
   - **Cộng hydro (Hydrogenation)**: Thêm H₂ vào liên kết đôi hoặc ba để chuyển thành alkane.
     \[
-    \text{C₂H₄} + H₂ \xrightarrow{Ni} \text{C₂H₆}
+    \text{C₂H₄} + H₂ $\xrightarrow{Ni}$ $\text{C₂H₆}$
     \]
   - **Cộng halogen (Cộng bromine, Br₂)**: Alkene và alkyne dễ dàng cộng bromine (Br₂) tạo ra dibromoalkane.
     \[
-    \text{C₂H₄} + Br₂ \rightarrow \text{C₂H₄Br₂}
+    $\text{C₂H₄}$ + Br₂ $\rightarrow$ $\text{C₂H₄Br₂}$
     \]
   - **Cộng hydrogen halide (HBr)**: Alkene cộng với HBr theo quy tắc **Markovnikov**, tức là H gắn vào nguyên tử carbon có nhiều hydro hơn.
     \[
-    \text{C₂H₄} + HBr \rightarrow \text{C₂H₅Br}
+    $\text{C₂H₄}$ + HBr $\rightarrow$ $\text{C₂H₅Br}$
     \]
   - **Cộng nước (Hydration)**: Alkene cộng với nước trong điều kiện acid (H₂SO₄) tạo ra alcohol.
     \[
-    \text{C₂H₄} + H₂O \xrightarrow{H₂SO₄} \text{C₂H₅OH}
+    $\text{C₂H₄}$ + H₂O $\xrightarrow{H₂SO₄}$ $\text{C₂H₅OH}$
     \]
   - **Phản ứng trùng hợp (Polymerization)**: Alkene có thể tham gia phản ứng trùng hợp để tạo ra polyme như polyethylene (từ ethylene).
 
@@ -83,7 +83,7 @@
 ### 6.2 Thí nghiệm 2: Phản ứng với Bromine
 - **Ethylene** phản ứng với nước bromine (Br₂) trong dung môi CCl₄ tạo ra 1,2-dibromoethane, khiến dung dịch bromine mất màu.
   \[
-  C₂H₄ + Br₂ \rightarrow C₂H₄Br₂
+  C₂H₄ + Br₂ $\rightarrow$ C₂H₄Br₂
   \]
 
 ### 6.3 Thí nghiệm 3: Phản ứng với nước bromine trong ánh sáng
@@ -108,16 +108,14 @@
 - **Điều chế Alkene**:
   - **Phản ứng dehydro hóa** (loại bỏ nước) từ alcohol:
     \[
-    \text{C₂H₅OH} \xrightarrow{H₂SO₄, t°} \text{C₂H₄} + H₂O
+    $\text{C₂H₅OH}$ $\xrightarrow{H₂SO₄, t°}$ $\text{C₂H₄}$ + H₂O
     \]
   - **Điều chế từ cracking dầu mỏ**.
 
 - **Điều chế Acetylene**:
   - Từ **calcium carbide (CaC₂)**:
     \[
-    \text{CaC₂} + 2
-
-H₂O \rightarrow \text{C₂H₂} + \text{Ca(OH)₂}
+    $\text{CaC₂}$ + 2H₂O $\rightarrow \text{C₂H₂}$ + $\text{Ca(OH)₂}$
     \]
 
 ---

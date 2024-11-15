@@ -22,11 +22,11 @@
 - **Tính axit của phenol**: Phenol là một axit yếu, dễ dàng phản ứng với các base mạnh như natri hydroxide (NaOH) hoặc natri cacbonat (Na₂CO₃).
   - **Phản ứng với NaOH**: Phenol tác dụng với NaOH tạo thành muối phenolat và nước. 
     \[
-    C₆H₅OH + NaOH \rightarrow C₆H₅O⁻Na⁺ + H₂O
+    C₆H₅OH + NaOH $\rightarrow$ C₆H₅O⁻Na⁺ + H₂O
     \]
   - **Phản ứng với Na₂CO₃**: Phenol cũng phản ứng với natri cacbonat, nhưng phản ứng này không mạnh như với NaOH.
     \[
-    C₆H₅OH + Na₂CO₃ \rightarrow C₆H₅O⁻Na⁺ + CO₂ + H₂O
+    C₆H₅OH + Na₂CO₃ $\rightarrow$ C₆H₅O⁻Na⁺ + CO₂ + H₂O
     \]
 
 ### 3.2 Phản ứng thế ở vòng benzen
@@ -34,24 +34,24 @@
   
   - **Phản ứng với nước bromine (Br₂)**: Phenol dễ dàng phản ứng với bromine trong nước hoặc trong dung dịch acetic acid, tạo ra sản phẩm brom hóa. Phản ứng này thường tạo ra sản phẩm 2,4,6-tribromophenol (màu trắng).
     \[
-    C₆H₅OH + 3Br₂ \rightarrow C₆H₂Br₃OH + 3HBr
+    C₆H₅OH + 3Br₂ $\rightarrow$ C₆H₂Br₃OH + 3HBr
     \]
     Khi phản ứng này diễn ra trong nước, phenol sẽ có màu trắng hoặc vàng do sự hình thành của tribromophenol.
 
   - **Phản ứng với dung dịch HNO₃ (axit nitric)**: Phenol dễ dàng phản ứng với axit nitric, đặc biệt khi tác dụng trong điều kiện nhiệt độ thấp, tạo ra các sản phẩm nitro hóa. Ví dụ, phản ứng với HNO₃ sẽ tạo ra **2,4,6-trinitrophenol (picric acid)**.
     \[
-    C₆H₅OH + HNO₃ \rightarrow C₆H₂(NO₂)₃OH + H₂O
+    C₆H₅OH + HNO₃ $\rightarrow$ C₆H₂(NO₂)₃OH + H₂O
     \]
 
   - **Phản ứng với dung dịch H₂SO₄ đặc**: Khi phenol tác dụng với axit sulfuric đặc, một phản ứng sulfon hóa có thể xảy ra, tạo ra **phenol sulfonic acid**.
     \[
-    C₆H₅OH + H₂SO₄ \rightarrow C₆H₅SO₃H + H₂O
+    C₆H₅OH + H₂SO₄ $\rightarrow$ C₆H₅SO₃H + H₂O
     \]
 
 ### 3.3 Phản ứng oxy hóa:
 - Phenol có thể bị oxy hóa mạnh, đặc biệt trong điều kiện có mặt của kali permanganat (KMnO₄), tạo thành các sản phẩm có nhóm carboxyl (axit benzoic).
   \[
-  C₆H₅OH + [O] \rightarrow C₆H₅COOH
+  C₆H₅OH + [O] $\rightarrow$ C₆H₅COOH
   \]
 
 ### 3.4 Phản ứng khử:
