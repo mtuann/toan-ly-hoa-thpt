@@ -54,7 +54,7 @@
   - Alcohol có thể phản ứng với halogen (Cl₂, Br₂) trong môi trường axit để thay thế nguyên tử hydro bằng halogen.
   - Ví dụ: Phản ứng của ethanol với bromine trong điều kiện axit.
   \[
-  C₂H₅OH + Br₂ \rightarrow C₂H₅Br + H₂O
+  C₂H₅OH + Br₂ $\rightarrow$ C₂H₅Br + H₂O
   \]
 
 ### 4.2 Phản ứng tạo alkene hoặc ether:
@@ -74,23 +74,23 @@
 - **Oxi hóa alcohol bậc 1**: Alcohol bậc 1 dễ dàng oxi hóa thành aldehyde (acetaldehyde từ ethanol) và có thể tiếp tục oxi hóa thành axit carboxylic (acetic acid).
   - Ví dụ: Oxi hóa ethanol với CuO:
   \[
-  C₂H₅OH + [O] \rightarrow CH₃CHO + H₂O
+  C₂H₅OH + [O] $\rightarrow$ CH₃CHO + H₂O
   \]
   - Tiếp tục oxi hóa aldehyde thành axit:
   \[
-  CH₃CHO + [O] \rightarrow CH₃COOH
+  CH₃CHO + [O] $\rightarrow$ CH₃COOH
   \]
 
 - **Oxi hóa alcohol bậc 2**: Alcohol bậc 2 (như isopropanol) oxi hóa thành ketone.
   \[
-  (CH₃)₂CHOH + [O] \rightarrow (CH₃)₂CO
+  (CH₃)₂CHOH + [O] $\rightarrow$ (CH₃)₂CO
   \]
 
 ### 4.4 Phản ứng đốt cháy:
 - Alcohol cháy trong không khí hoặc oxy để tạo ra CO₂ và H₂O.
   - Ví dụ: Đốt cháy ethanol:
   \[
-  C₂H₅OH + 3O₂ \rightarrow 2CO₂ + 3H₂O
+  C₂H₅OH + 3O₂ $\rightarrow$ 2CO₂ + 3H₂O
   \]
 
 ## 5. Thực nghiệm
