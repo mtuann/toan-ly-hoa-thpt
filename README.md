@@ -50,19 +50,10 @@ Repository này chia thành các chuyên mục theo từng môn học cụ thể
 
 ## 💬 Liên Hệ
 
-- Nếu bạn có câu hỏi hoặc cần sự trợ giúp, vui lòng mở Issue hoặc gửi email cho chúng tôi tại [email@example.com].
+- Nếu bạn có câu hỏi hoặc cần sự trợ giúp, vui lòng mở Issue hoặc gửi email cho chúng tôi tại [tuannm0312@gmail.com].
 - Bạn cũng có thể theo dõi repo này để nhận được các bản cập nhật mới nhất.
 
 ---
 
 **Chúc bạn học tốt và đạt kết quả cao trong kỳ thi THPT Quốc gia!**  
 Hãy bắt đầu ôn tập ngay hôm nay và tiến gần hơn đến mục tiêu của mình!
-```
-
-### Giải thích về cấu trúc:
-- **Mở đầu**: Giới thiệu ngắn gọn về repo, mục đích và đối tượng sử dụng.
-- **Các chủ đề học**: Các môn học Toán, Lý, Hóa được chia thành các chủ đề con chi tiết, dễ hiểu.
-- **Cách sử dụng tài liệu**: Hướng dẫn học sinh cách tiếp cận và sử dụng tài liệu hiệu quả.
-- **Tài liệu hỗ trợ khác**: Giới thiệu thêm các tài liệu ôn thi, bài tập mẫu, đề thi thử, v.v.
-- **Cộng đồng và đóng góp**: Khuyến khích người dùng tham gia cộng đồng và đóng góp tài liệu.
-- **Liên hệ**: Mọi thắc mắc hoặc góp ý có thể liên hệ qua emai hoặc mở Issue trên GitHub.
